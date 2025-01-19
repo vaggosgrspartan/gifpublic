@@ -1,0 +1,19 @@
+/* Blue color scheme */
+
+:root {
+  --accent: 189, 230, 251;         /* #BDE6FB */
+  --accent-off: 111, 130, 138;     /* #6F828A */
+  --dark: 30, 37, 41;              /* #1E2529 */
+  --darkest: 23, 29, 32;           /* #171D20 */
+  --dark-highlight: 59, 73, 77;    /* #3B494D */
+  --dark-apparent: 32, 39, 42;     /* #20272A */
+}
+
+#loginPage {background: url("https://raw.githubusercontent.com/vaggosgrspartan/gifpublic/refs/heads/main/futuristic.gif") !important;
+}
+.layout-tv .backgroundContainer, .layout-desktop .backgroundContainer {background: url("https://raw.githubusercontent.com/vaggosgrspartan/gifpublic/refs/heads/main/futuristic.gif") no-repeat center center;
+}
+#loginPage .padded-left.padded-right.padded-bottom-page {
+    backdrop-filter: blur(8px);
+    background: rgba(var(--dark-highlight),.43);
+}
