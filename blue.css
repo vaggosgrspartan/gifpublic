@@ -13,7 +13,3 @@
 }
 .layout-tv .backgroundContainer, .layout-desktop .backgroundContainer {background: url("https://raw.githubusercontent.com/vaggosgrspartan/gifpublic/refs/heads/main/futuristic.gif") no-repeat center center;
 }
-#loginPage .padded-left.padded-right.padded-bottom-page {
-    backdrop-filter: blur(8px);
-    background: rgba(var(--dark-highlight),.43);
-}
