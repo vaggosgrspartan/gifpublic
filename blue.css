@@ -9,7 +9,19 @@
   --dark-apparent: 32, 39, 42;     /* #20272A */
 }
 
-#loginPage {background: url("https://raw.githubusercontent.com/vaggosgrspartan/gifpublic/refs/heads/main/futuristic.gif") !important;
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
 }
-.layout-tv .backgroundContainer, .layout-desktop .backgroundContainer {background: url("https://raw.githubusercontent.com/vaggosgrspartan/gifpublic/refs/heads/main/futuristic.gif") no-repeat center center;
+
+#loginPage{
+    position: repeat;
+    top: -10%;
+    left: -10%;
+    width: 120%;
+    height: 120%;
+    background-image: url('https://raw.githubusercontent.com/vaggosgrspartan/gifpublic/refs/heads/main/futuristi
+    background-size: auto;
+    background-position: center;
 }
