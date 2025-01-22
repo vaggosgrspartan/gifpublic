@@ -18,10 +18,10 @@ body {
 #loginPage{
     position: repeat;
     top: -10%;
-    left: -10%;
-    width: 120%;
-    height: 120%;
-    background-image: url('https://raw.githubusercontent.com/vaggosgrspartan/gifpublic/refs/heads/main/futuristi
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background-image: url('https://raw.githubusercontent.com/vaggosgrspartan/gifpublic/refs/heads/main/futuristic.gif');
     background-size: auto;
-    background-position: center;
+    background-position: relative;
 }
